@@ -1,0 +1,85 @@
+#eeSFL #eeSFLS_SearchFiles {
+	height: 3em;
+	text-align: center;
+	padding: 0;
+	border: none;
+	padding-bottom: 5px;
+}
+#eeSFL #eeSFLS_SearchFiles input[type=text] {
+	display: inline-block;
+	float: none;
+	clear: none;
+	width: 30%;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#eeSFL #eeSFLS_SearchFiles input[type=submit] {
+	display: inline-block;
+	width: auto;
+	float: none;
+	clear: none;
+/* 	padding: .5em; */
+	margin: 0;
+	line-height: normal;
+	margin-bottom: 10px;
+}
+
+#eeSFL #eeSFLS_SearchFiles input.eeSFLS_Datepicker {
+	display: inline-block;
+	width: 15%;
+}
+
+
+
+
+
+#eeSFLS_paginationControls,
+#eeSFL .eeSFLS_fileTotalCount  {
+	text-align: center;
+}
+
+#eeSFLS_paginationControls button {
+	display: inline-block;
+	margin: 5px;
+}
+
+#eeSFL p.eeSFLS_pageIcons{
+	width: 100%;
+	text-align: center;
+	margin-top: 20px;
+}
+
+
+#eeSFL a.eeSFLS_PaginationIcon,
+.eeSFL_Admin a.eeSFLS_PaginationIcon {
+	display: inline;
+	float: none;
+	margin: 3px;
+	text-align: center;
+	font-size: 80%;
+	cursor: pointer;
+	text-decoration: none;
+	border: none;
+}
+
+
+#eeSFL a.eeSFLS_PaginationIcon span,
+.eeSFL_Admin a.eeSFLS_PaginationIcon span {
+	display: inline-block;
+	float: none;
+	width: auto;
+	margin: 0 10px;
+	padding: 3px 5px;
+	border-bottom: 2px solid #494949;
+}
+
+#eeSFL a.eeSFLS_PaginationIcon span.eeSFLS_iconCurrent {
+	font-size: 120%;
+	border-bottom: 4px solid #494949;
+	
+}
+
+
+.eeHide {
+	display: none;
+}
