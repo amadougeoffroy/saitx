@@ -18,7 +18,7 @@
 
 	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
 		<div class="wpb_wrapper">
-			<div style="text-align:center;"><a id="boton-centrado" itemprop="url" href="../contacto/index.html" target="_self" data-hover-border-color="#1b3661" class="qbutton  large default" style="">CONTACTER</a></div>
+			<div style="text-align:center;"><a id="boton-centrado" itemprop="url" href="<?php echo URL::to('/contacto') ?>" target="_self" data-hover-border-color="#1b3661" class="qbutton  large default" style="">CONTACTER</a></div>
 		</div>
 	</div>
 	<div class="vc_empty_space"  style="height: 32px" ><span

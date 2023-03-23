@@ -739,7 +739,15 @@ footer .column4 {
         font-size: 30px;
         padding-top: 15px;
     }
-}</style>
+}
+
+.vc_custom_1541158171846 {
+    padding-top: 9.5% !important;
+    padding-bottom: 9.5% !important;
+    background: #ffffff url(http://www.ctvlifts.com/wp-content/uploads/2018/10/cables.jpg?id=2344) !important;
+}
+
+</style>
 <style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1540804140861{background-color: rgba(27,54,97,0.5) !important;*background-color: rgb(27,54,97) !important;}.vc_custom_1657878703209{padding-top: 20vh !important;padding-bottom: 20vh !important;}.vc_custom_1547725589807{background-color: #ffffff !important;}.vc_custom_1669631712632{margin-right: 10% !important;margin-bottom: -9px !important;margin-left: 10% !important;background-color: #ffffff !important;}.vc_custom_1537340727837{padding-top: 3% !important;padding-bottom: 3% !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><meta name="generator" content="WordPress Download Manager 3.2.67" />
                 <link href="https://fonts.googleapis.com/css?family=Rubik"
               rel="stylesheet">
@@ -958,7 +966,7 @@ footer .column4 {
 										<div class="wpb_wrapper">
 											<div class="wpb_text_column wpb_content_element ">
 												<div class="wpb_wrapper">
-													<p><a href="#" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="alignnone size-full wp-image-775" src="<?php echo URL::to('/public/wp-content/uploads/2018/08/3d.icon_Mesa-de-trabajo-1.png') ?>" alt="" width="30" height="30" /></a></p>
+													<p><a href="https://edrawings.solidworks.com/main.v2.html?v=19&URL=https://www.3dcontentcentral.com/SWDownloads1/bec86b32-ce8f-46ea-a6ac-9c0eb65235c5/User%20Library-CTV_Bancada.EPRT" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="alignnone size-full wp-image-775" src="<?php echo URL::to('/public/wp-content/uploads/2018/08/3d.icon_Mesa-de-trabajo-1.png') ?>" alt="" width="30" height="30" /></a></p>
 
 												</div> 
 											</div> 
@@ -987,7 +995,7 @@ footer .column4 {
 	</div> </div></div></div><div class="tresd wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p><a href="../chasisrodadera3d/index.html" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="alignnone size-full wp-image-775" src="<?php echo URL::to('/public/wp-content/uploads/2018/08/3d.icon_Mesa-de-trabajo-1.png') ?>" alt="" width="30" height="30" /></a></p>
+			<p><a href="https://edrawings.solidworks.com/main.v2.html?v=19&URL=https://www.3dcontentcentral.com/SWDownloads1/a158dc32-c4f3-4ea2-87c6-19eebc885644/User%20Library-CTV_ChasisRod.EPRT" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="alignnone size-full wp-image-775" src="<?php echo URL::to('/public/wp-content/uploads/2018/08/3d.icon_Mesa-de-trabajo-1.png') ?>" alt="" width="30" height="30" /></a></p>
 
 		</div> 
 	</div> </div></div></div></div></div></div></div></div>
@@ -1035,7 +1043,7 @@ footer .column4 {
 	</div> </div></div></div><div class="tresd wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p><a href="../chasisrodadera3d/index.html" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="alignnone size-full wp-image-775" src="<?php echo URL::to('/public/wp-content/uploads/2018/08/3d.icon_Mesa-de-trabajo-1.png') ?>" alt="" width="30" height="30" /></a></p>
+			<p><a href="https://edrawings.solidworks.com/main.v2.html?v=19&URL=https://www.3dcontentcentral.com/SWDownloads1/a158dc32-c4f3-4ea2-87c6-19eebc885644/User%20Library-CTV_ChasisRod.EPRT" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="alignnone size-full wp-image-775" src="<?php echo URL::to('/public/wp-content/uploads/2018/08/3d.icon_Mesa-de-trabajo-1.png') ?>" alt="" width="30" height="30" /></a></p>
 
 		</div> 
 	</div> </div></div></div></div></div></div></div></div></div></div>
@@ -1066,7 +1074,7 @@ footer .column4 {
 	</div> </div></div></div><div class="tresd wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p><a href="../cabinadecristal3d/index.html" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="alignnone size-full wp-image-775" src="<?php echo URL::to('/public/wp-content/uploads/2018/08/3d.icon_Mesa-de-trabajo-1.png') ?>" alt="" width="30" height="30" /></a></p>
+			<p><a href="https://edrawings.solidworks.com/main.v2.html?v=19&URL=https://www.3dcontentcentral.com/SWDownloads1/d24cbe01-9386-4d11-b529-a7782df24117/User%20Library-CTV_CabinaCristal.EPRT" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="alignnone size-full wp-image-775" src="<?php echo URL::to('/public/wp-content/uploads/2018/08/3d.icon_Mesa-de-trabajo-1.png') ?>" alt="" width="30" height="30" /></a></p>
 
 		</div> 
 	</div> </div></div></div></div></div></div></div></div></div></div>
@@ -1084,7 +1092,7 @@ footer .column4 {
 	</div> </div></div></div><div class="tresd wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p><a href="../chasishelicoptero3d/index.html" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="alignnone size-full wp-image-775" src="<?php echo URL::to('/public/wp-content/uploads/2018/08/3d.icon_Mesa-de-trabajo-1.png') ?>" alt="" width="30" height="30" /></a></p>
+			<p><a href="https://edrawings.solidworks.com/main.v2.html?v=19&URL=https://www.3dcontentcentral.com/SWDownloads1/3f920b98-d6f6-4380-b7a5-8ce17eee217d/User%20Library-CTV_ChasisHe.EPRT" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="alignnone size-full wp-image-775" src="<?php echo URL::to('/public/wp-content/uploads/2018/08/3d.icon_Mesa-de-trabajo-1.png') ?>" alt="" width="30" height="30" /></a></p>
 
 		</div> 
 	</div> </div></div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner vc_custom_1535712411676 zonetext"><div class="wpb_wrapper">
